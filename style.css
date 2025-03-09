@@ -1,0 +1,33 @@
+QWidget{
+    background-color: black;
+}
+
+QLineEdit{
+    background-color: black; /*Muda a cor de fundo*/
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+
+QPushButton{
+    background-color: gray;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    border-radius: 30px;
+}
+
+QPushButton:hover {
+    background-color: goldenrod;
+}
+
+#botaoDividir{
+    background-color: darkorange;
+}
+
+#botaoAC {
+    background-color: #a9a9a9;
+    color: black;
+}
+
